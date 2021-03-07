@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/megamillions-simulator/static/css/main.dccd57aa.chunk.css",
+    "main.js": "/megamillions-simulator/static/js/main.dba63ddf.chunk.js",
+    "main.js.map": "/megamillions-simulator/static/js/main.dba63ddf.chunk.js.map",
+    "runtime-main.js": "/megamillions-simulator/static/js/runtime-main.f666b12c.js",
+    "runtime-main.js.map": "/megamillions-simulator/static/js/runtime-main.f666b12c.js.map",
+    "static/css/2.bac56067.chunk.css": "/megamillions-simulator/static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js": "/megamillions-simulator/static/js/2.effe3d63.chunk.js",
+    "static/js/2.effe3d63.chunk.js.map": "/megamillions-simulator/static/js/2.effe3d63.chunk.js.map",
+    "index.html": "/megamillions-simulator/index.html",
+    "precache-manifest.5e2f8ed538ac0531b5619de201816fe2.js": "/megamillions-simulator/precache-manifest.5e2f8ed538ac0531b5619de201816fe2.js",
+    "service-worker.js": "/megamillions-simulator/service-worker.js",
+    "static/css/2.bac56067.chunk.css.map": "/megamillions-simulator/static/css/2.bac56067.chunk.css.map",
+    "static/css/main.dccd57aa.chunk.css.map": "/megamillions-simulator/static/css/main.dccd57aa.chunk.css.map",
+    "static/js/2.effe3d63.chunk.js.LICENSE.txt": "/megamillions-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f666b12c.js",
+    "static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js",
+    "static/css/main.dccd57aa.chunk.css",
+    "static/js/main.dba63ddf.chunk.js"
+  ]
+}
