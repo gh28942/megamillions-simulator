@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/megamillions-simulator/precache-manifest.5e2f8ed538ac0531b5619de201816fe2.js"
+  "/megamillions-simulator/precache-manifest.8a4218554b17d0732dc8483bdd5bbf99.js"
 );
 
 self.addEventListener('message', (event) => {
