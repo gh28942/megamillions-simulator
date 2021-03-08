@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/megamillions-simulator/static/css/main.9f6011a9.chunk.css",
-    "main.js": "/megamillions-simulator/static/js/main.dba63ddf.chunk.js",
-    "main.js.map": "/megamillions-simulator/static/js/main.dba63ddf.chunk.js.map",
+    "main.js": "/megamillions-simulator/static/js/main.e6bd0187.chunk.js",
+    "main.js.map": "/megamillions-simulator/static/js/main.e6bd0187.chunk.js.map",
     "runtime-main.js": "/megamillions-simulator/static/js/runtime-main.f666b12c.js",
     "runtime-main.js.map": "/megamillions-simulator/static/js/runtime-main.f666b12c.js.map",
     "static/css/2.bac56067.chunk.css": "/megamillions-simulator/static/css/2.bac56067.chunk.css",
     "static/js/2.effe3d63.chunk.js": "/megamillions-simulator/static/js/2.effe3d63.chunk.js",
     "static/js/2.effe3d63.chunk.js.map": "/megamillions-simulator/static/js/2.effe3d63.chunk.js.map",
     "index.html": "/megamillions-simulator/index.html",
-    "precache-manifest.8a4218554b17d0732dc8483bdd5bbf99.js": "/megamillions-simulator/precache-manifest.8a4218554b17d0732dc8483bdd5bbf99.js",
+    "precache-manifest.5d081dd450e5359d477dfd52902a82bc.js": "/megamillions-simulator/precache-manifest.5d081dd450e5359d477dfd52902a82bc.js",
     "service-worker.js": "/megamillions-simulator/service-worker.js",
     "static/css/2.bac56067.chunk.css.map": "/megamillions-simulator/static/css/2.bac56067.chunk.css.map",
     "static/css/main.9f6011a9.chunk.css.map": "/megamillions-simulator/static/css/main.9f6011a9.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.bac56067.chunk.css",
     "static/js/2.effe3d63.chunk.js",
     "static/css/main.9f6011a9.chunk.css",
-    "static/js/main.dba63ddf.chunk.js"
+    "static/js/main.e6bd0187.chunk.js"
   ]
 }

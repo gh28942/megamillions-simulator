@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a150b953dedfd0cbbe974bc9c3c4d73",
+    "revision": "bba0a4b6d85d14f13a9f7828c5253c90",
     "url": "/megamillions-simulator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/megamillions-simulator/static/css/2.bac56067.chunk.css"
   },
   {
-    "revision": "4c3df54c9d998c02597a",
+    "revision": "9ba3d79e20ceeeed419b",
     "url": "/megamillions-simulator/static/css/main.9f6011a9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/megamillions-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c3df54c9d998c02597a",
-    "url": "/megamillions-simulator/static/js/main.dba63ddf.chunk.js"
+    "revision": "9ba3d79e20ceeeed419b",
+    "url": "/megamillions-simulator/static/js/main.e6bd0187.chunk.js"
   },
   {
     "revision": "76e05cca07336b1d3809",
